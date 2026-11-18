@@ -10,4 +10,8 @@ Arthur（arthur0824hao）的公開作品集：每個專案的公開版本以 sub
 
 ## 專案
 
-（Arthur 確認收錄清單後補上。）
+| 專案 | 內容 | 公開位置 |
+|---|---|---|
+| grok-bot-0.18-reconstructed | Grok Bot 0.18.0 的非官方原始碼重建與延伸（macOS） | https://github.com/arthur0824hao/grok-bot-0.18-reconstructed |
+| GreF-GNN | APSIPA ASC 2026 口頭發表論文 | 論文與投影片公開連結待補 |
+| 忍神 FVTT 引擎 | Foundry VTT 的忍神系統（只公開程式，不含規則書資料） | 公開版準備中 |
